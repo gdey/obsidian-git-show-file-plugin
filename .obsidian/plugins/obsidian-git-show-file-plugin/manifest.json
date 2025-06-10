@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-git-show-file-plugin",
+	"name": "Obsidian Git Show File Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Allows one to insert into a code block the contents (whole or part) of a file from a git hash, path, and start and end line numbers",
+	"author": "Gautam Dey",
+	"authorUrl": "https://gdey.me",
+	"fundingUrl": "https://gdey.me/pricing",
+	"isDesktopOnly": true
+}
