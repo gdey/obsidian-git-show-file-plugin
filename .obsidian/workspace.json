@@ -11,10 +11,14 @@
             "id": "03413d4a745f41d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "How the plugin works.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How the plugin works"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aac8cdfa0382cf0a",
+  "active": "03413d4a745f41d4",
   "lastOpenFiles": [
     "How the plugin works.md",
     "obsidian/Excalidraw/Scripts/Downloaded/Slideshow.svg",
