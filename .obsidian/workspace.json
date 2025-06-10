@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5f70766303fc8763",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a6dc2f5e9a03334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e80eca57406059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Building an obsidian Plugin.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Building an obsidian Plugin"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b0fb92bde9f273af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0fa67d5f1e71114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f005d35109de727",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e07ae0d924ce98c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5542510bed5ec24e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8973b3867a2454d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef29a766a126fc33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fadebb854d9e95fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/templates/template, drawing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for template, drawing"
+            }
+          },
+          {
+            "id": "bf86045ae7e2ac5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/templates/template, drawing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from template, drawing"
+            }
+          },
+          {
+            "id": "f0e0de315da6587e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "212786464ceeaf58",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/templates/template, drawing.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of template, drawing"
+            }
+          },
+          {
+            "id": "aac8cdfa0382cf0a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "60e80eca57406059",
+  "lastOpenFiles": [
+    "Building an obsidian Plugin.md",
+    "obsidian/templates/template, drawing.md",
+    "oauth/README.md",
+    "apps/photoshare/Design Document.md",
+    "oauth/README.svg",
+    "obsidian/Excalidraw/Drawing 2025-06-08 21.49.45.excalidraw.md",
+    "apps/photoshare/Design Document.svg",
+    "obsidian/templates",
+    "obsidian",
+    "apps/Untitled",
+    "obsidian/Excalidraw/libraries/ecommerce-mobile-ui.excalidrawlib",
+    "obsidian/Excalidraw/libraries/it-icons.excalidrawlib",
+    "obsidian/Excalidraw/libraries/go-icons.excalidrawlib",
+    "obsidian/Excalidraw/libraries/awesome-icons.excalidrawlib",
+    "obsidian/Excalidraw/libraries/post-it.excalidrawlib",
+    "obsidian/Excalidraw/libraries/webpage-frames.excalidrawlib",
+    "obsidian/Excalidraw/libraries/universal-ui-kit.excalidrawlib",
+    "obsidian/Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "obsidian/Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg"
+  ]
+}
